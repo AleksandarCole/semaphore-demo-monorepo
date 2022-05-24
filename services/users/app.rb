@@ -4,7 +4,7 @@ require 'sinatra'
 # A simple account registration service.
 #
 # It keeps users in-memory. In the real world, this would be written
-# into a database.
+# into a database. asd
 #
 
 require 'json'
